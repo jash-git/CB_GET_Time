@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1444805197 source:d:\visual project code\cb_t20151014\main.c
+	<time.h>
+	<stdio.h>
+	<string.h>
+
